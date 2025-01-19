@@ -33,5 +33,6 @@ Please check the instructions to create a [conda environment](https://rcs.ucalga
 - [L: Fundamentals ML](./Slides/lecture02_fundamentals_ml.pdf)
 - [L: Overfitting and Regulzarization](./Slides/lecture03_overfitting_regularization.pdf)
 - [T: Overfitting and Regulzarization](./Tutorials/overfitting_regularization.ipynb)
+- [L: Deep Learning Intuition](./Slides/lecture04_dl_intutition.pdf)
 
 
