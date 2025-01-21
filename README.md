@@ -34,5 +34,7 @@ Please check the instructions to create a [conda environment](https://rcs.ucalga
 - [L: Overfitting and Regulzarization](./Slides/lecture03_overfitting_regularization.pdf)
 - [T: Overfitting and Regulzarization](./Tutorials/overfitting_regularization.ipynb)
 - [L: Deep Learning Intuition](./Slides/lecture04_dl_intutition.pdf)
+- [L: Fully Connected Neural Networks](./Slides/lecture05_fully_connected_nns.pdf)
+
 
 
