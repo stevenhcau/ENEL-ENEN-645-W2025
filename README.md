@@ -35,7 +35,9 @@ Please check the instructions to create a [conda environment](https://rcs.ucalga
 - [T: Overfitting and Regulzarization](./Tutorials/overfitting_regularization.ipynb)
 - [L: Deep Learning Intuition](./Slides/lecture04_dl_intutition.pdf)
 - [L: Fully Connected Neural Networks](./Slides/lecture05_fully_connected_nns.pdf)
-- [T: Fully Connected Neural Networks  -2D Example](/Tutorials/fully_connected_neural_network_2D_synthetic_example.ipynb)
+- [T: Fully Connected Neural Networks - 2D Example](/Tutorials/fully_connected_neural_network_2D_synthetic_example.ipynb)
+- [T: Fully Connected Neural Networks - MNIST Example](/Tutorials/fully_connected_NN_mnist_pytorch.ipynb)
+
 
 
 
