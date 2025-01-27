@@ -37,6 +37,7 @@ Please check the instructions to create a [conda environment](https://rcs.ucalga
 - [L: Fully Connected Neural Networks](./Slides/lecture05_fully_connected_nns.pdf)
 - [T: Fully Connected Neural Networks - 2D Example](/Tutorials/fully_connected_neural_network_2D_synthetic_example.ipynb)
 - [T: Fully Connected Neural Networks - MNIST Example](/Tutorials/fully_connected_NN_mnist_pytorch.ipynb)
+- [L: Assignment 01 Overview](/Slides/lecture06_assignment01_overview.pdf)
 
 
 
