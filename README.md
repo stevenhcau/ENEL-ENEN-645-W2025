@@ -40,6 +40,7 @@ Please check the instructions to create a [conda environment](https://rcs.ucalga
 - [L: Assignment 01 Overview](/Slides/lecture06_assignment01_overview.pdf)
 - [L: Convolutional Neural Networks](/Slides/convolutional_neural_networks.pdf)
 - [L: Transfer Learning](/Slides/transfer_learning.pdf)
+- [T: Convolutional Neural Networks - MNIST](./Tutorials/CNN_mnist_pytorch.ipynb)
 
 
 
