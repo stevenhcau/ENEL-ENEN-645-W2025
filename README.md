@@ -42,7 +42,9 @@ Please check the instructions to create a [conda environment](https://rcs.ucalga
 - [L: Transfer Learning](/Slides/transfer_learning.pdf)
 - [T: Convolutional Neural Networks - MNIST](./Tutorials/CNN_mnist_pytorch.ipynb)
 - [T: Transfer Learning - Garbage classification with images](./Tutorials/transfer_learning_garbage_images.ipynb)
-- [T: Practical Applications Discussion](./Slides/lecture_PracticalApplications.pdf)
+- [L: Practical Applications Discussion](./Slides/lecture_PracticalApplications.pdf)
+- [L: Parameters and Memory](./Slides/parameters_and_memory.pdf)
+- [T: Transfer Learning - Garbage classification with text](./Tutorials/garbage_classification_text.ipynb)
 
 
 
