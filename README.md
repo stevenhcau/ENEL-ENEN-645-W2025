@@ -45,6 +45,11 @@ Please check the instructions to create a [conda environment](https://rcs.ucalga
 - [L: Practical Applications Discussion](./Slides/lecture_PracticalApplications.pdf)
 - [L: Parameters and Memory](./Slides/parameters_and_memory.pdf)
 - [T: Transfer Learning - Garbage classification with text](./Tutorials/garbage_classification_text.ipynb)
+- [L:Adversarial Networks and Domain Adaptation](./Slides/GANs_DA.pdf)
+- [L: Self-supervised Learning](./Slides/SSL.pdf)
+- [L: Explainable AI](./Slides/explainable_AI.pdf)
+
+
 
 
 
