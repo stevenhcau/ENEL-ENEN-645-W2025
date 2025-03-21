@@ -50,7 +50,7 @@ Please check the instructions to create a [conda environment](https://rcs.ucalga
 - [L: Recurrent Neural Networks](./Slides/ENEL645_RNNs.pdf)
 - [L: Self-supervised Learning](./Slides/SSL.pdf)
 - [L: Explainable AI](./Slides/explainable_AI.pdf)
-- [T: UNET Model for Signal Denosing](./Tutorials/denoising_1d_signals.ipynb)
+- [T: UNET Model for Signal Denoising](./Tutorials/denoising_1d_signals.ipynb)
 
 
 
