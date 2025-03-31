@@ -53,6 +53,13 @@ Please check the instructions to create a [conda environment](https://rcs.ucalga
 - [T: UNET Model for Signal Denosing](./Tutorials/denoising_1d_signals.ipynb)
 - [T: Generative Adversarial Network](./Tutorials/GAN_mnist.ipynb)
 - [T: Traditional Machine Learning](./Tutorials/tutorial_traditional_ML.ipynb)
+- [L: Physics Informed Neural Networks](./Slides/PINNs.pdf)
+- [T: Physics Informed Neural Networks](./Tutorials/heat_eqn_tutorial.ipynb)
+- [L: Graph Neural Networks](./Slides/gnns.pdf)
+- [T: Graph Neural Networks](./Tutorials/gnn_tutorial.ipynb)
+- [T: Recurrent Neural Networks](./Tutorials/RNNs.ipynb.ipynb)
+
+
 
 
 
